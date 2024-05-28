@@ -1,0 +1,14 @@
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\bin\Debug\net6.0\Que_07.exe
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\bin\Debug\net6.0\Que_07.deps.json
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\bin\Debug\net6.0\Que_07.runtimeconfig.json
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\bin\Debug\net6.0\Que_07.dll
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\bin\Debug\net6.0\Que_07.pdb
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\Que_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\Que_07.AssemblyInfoInputs.cache
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\Que_07.AssemblyInfo.cs
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\Que_07.csproj.CoreCompileInputs.cache
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\Que_07.dll
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\refint\Que_07.dll
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\Que_07.pdb
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\Que_07.genruntimeconfig.cache
+C:\Users\abhis\Desktop\Assignments\Assignment01\Que_07\obj\Debug\net6.0\ref\Que_07.dll
